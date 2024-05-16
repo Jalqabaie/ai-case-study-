@@ -1,12 +1,13 @@
 # ai-case-study-
 
 ## Overview and origin
-* Enlitic(https://enlitic.com/)
+* Enlitic[https://enlitic.com/]
 * Jeremy Howard and Kevin Lyman founded Enlitic
-* The founder of Enlitic, Jeremy Howard, stated in an interview that throughout his studies of medical deep learning he saw a plethora of opportunities in the medical field to use Ai to better healthcare, <Most importantly, the opportunities have the potential to save lives, and greatly reduce healthcare costs> he felt this is where help is needed the most. 
+* The founder of Enlitic, Jeremy Howard, stated in an interview that throughout his studies of medical deep learning he saw a plethora of opportunities in the medical field to use Ai to better healthcare, >Most importantly, the opportunities have the potential to save lives, and greatly reduce healthcare costs.
+ he felt this is where help is needed the most. 
 * Enlitic is funded by Capitol Health, Thorney Investment Group, and other institutions. The company recieved 25 million dollars in funding on their last financing round and 55 million dollars overall. 
 
-## ## Business Activities 
+## Business Activities 
 * Enlitic designs Ai software to help doctors and radiologists all over the world in diagnosing patients more quickly and efficiently and aims to improve the accuracy of diagnosing patients.
 * The market size for Enlitic's technology is large since it is crucial to different groups in the healthcare industry. The company's digital marketing manager stated that their biggest customers are executives, radiologists, and Picture Archive and Communication System administrators. Each of these groups need the technology offered by Enlitic for different reasons, although radiologists are the ones that benefit from the technology the most.  
 * While there are many companies that introduce Ai to healthcare, there are not many approved Ai programs for patient diagnosis. Enlitic combines patient data with Ai to improve diagnostic efficiency and diagnose diseases earlier than doctors would without its software. When asked about Enlitic, Dr. Jinzaki expressed that Enlitic's software seems to be effective since it has shown to be highly accurate. He also expressed that using Ai for diagnosing X-rays is important since the diagnostic accuracy of X-rays is low, which leads to a higher risk of missing medical problems in patients. Dr. Jinzaki stated that any improvement on the accuracy of X-ray diagnosis would be significantly important. Enlitic's efficiency and focus on X-rays helps it stay on top of the industry. 
