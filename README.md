@@ -4,8 +4,8 @@
 * [Enlitic](https://enlitic.com/)
 * Jeremy Howard and Kevin Lyman founded Enlitic
 * The founder of Enlitic, Jeremy Howard, stated in an interview that throughout his studies of medical deep learning he saw a plethora of opportunities in the medical field to use Ai to better healthcare,
-    >Most importantly, the opportunities have the potential to save lives, and greatly reduce healthcare costs
- he felt this is where help is needed the most. 
+    >Most importantly, the opportunities have the potential to save lives, and greatly reduce healthcare costs.
+he felt this is where help is needed the most. 
 * Enlitic is funded by Capitol Health, Thorney Investment Group, and other institutions. The company recieved 25 million dollars in funding on their last financing round and 55 million dollars overall. 
 
 ## Business Activities 
